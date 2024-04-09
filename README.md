@@ -24,6 +24,7 @@ This project holds personal significance as it was inspired by the developer's n
 - CSS
 - JavaScript
 - Web Speech API(https://developer.mozilla.org/en-US/docs/Web/API/Web_speech_api)
+- Netlify (https://luxury-daifuku-240f55.netlify.app/)
 
 ## Browser Compatibility
 
